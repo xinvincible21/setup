@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/allmedia/cm_api/bin'
+let g:netrw_dirhist_2='/allmedia/cm_api/services'
+let g:netrw_dirhist_3='/Users/invincible/Sites/allmedia_frontend/utils'
+let g:netrw_dirhist_4='/private/tmp/puppet/modules/mysql_slave'
