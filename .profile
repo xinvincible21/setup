@@ -12,8 +12,7 @@ alias 'astop=/opt/local/etc/LaunchDaemons/org.macports.apache2/apache2.wrapper s
 alias 'cgrep=grep -nri --color=always'
 
 source ~/.profile.d/colors
-#source ~/.profile.d/prompt
-source ~/.profile.d/prompt2
+source ~/.profile.d/prompt
 
 #set-o vi
 
