@@ -1,3 +1,0 @@
-# Prompt
-
-PS1="\u@\H ${TITLEBAR}${HOTPINK}\w${CYAN}
